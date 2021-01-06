@@ -1,4 +1,29 @@
-#Basic React Admin Template with Sigma PrimeReact Template and Laravel
+# Basic React Admin Template with Sigma PrimeReact Template and Laravel
+
+## Introduction
+
+This project is a basic template to create SPA's with React as front-end library and Laravel as back-end.
+
+It supports polyfills, SCSS, tests, like a `create-react-app` does.
+
+<b>Prime Faces Sigma Template original repo:</b><br>
+<a href="https://github.com/primefaces/sigma-react">https://github.com/primefaces/sigma-react</a>
+<br><br>
+
+<hr/>
+<br>
+## File structure
+
+`src/` <br>
+Where all react files are placed.
+
+`config/services.php` <br>
+All configs related to Webpack, babel and others needed to run and compile react applications.
+
+`package.json` <br>
+`node_modules`<br>
+
+<i>All Laravel folders and files remains has the same structure as a original project.</i>
 
 ## Contributing
 
